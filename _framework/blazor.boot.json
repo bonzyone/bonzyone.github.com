@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EconomicsSimulator.BlazorApp",
   "resources": {
-    "hash": "sha256-dBb9cm3hlDLnwXCC5MwL62GpvrX4rABG0Pbq+BZIqC8=",
+    "hash": "sha256-Oj4wBHk9LzsefhiNziwoH3i+JpYeXH1T693oECb5eYA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "EconomicsSimulator.BlazorApp.wasm": "sha256-wRo1zzetDEyk5+bw3De0zG/9/C++/Si3xgJrz1PWfdI=",
+      "EconomicsSimulator.BlazorApp.wasm": "sha256-TCJ9BZXB93a3EJGM7Dqk+LUHxQ2nnM12PeUuEPUi+Xo=",
       "EconomicsSimulator.Core.wasm": "sha256-T/tgH56rlqBO/B6jb4zWCoL7YtP7jIVD9TVnlklbj3A=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CS8CQtrDJ7OniJx5m3AU1sb/CL1dIP13ZyVBGhMjk0U=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
