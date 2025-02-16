@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CheatSheet",
   "resources": {
-    "hash": "sha256-jCMjnv/3pch/M9PEKP91RWiacPZihNfRlODYtOd5938=",
+    "hash": "sha256-RJp699JE8xhzeIA8vMkh3UvqpuqIvGRcA5SwzUV7mKg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "BlazorBootstrap.wasm": "sha256-aIXXR+9s7dYyi5uLNEw6yrNYcjcOCvrD+zPA2yDLSOw=",
-      "CheatSheet.wasm": "sha256-iIkZkUM4kChEsq4C3wP586FI0+Idvz5Q+9Xj32VdvG0=",
+      "CheatSheet.wasm": "sha256-3VffhZQ3wxROqNxqIggz4VNrZO+eEkWFau/4b7OJsDc=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-KyloQ0F/6fhiWptdkeaLEqX2v78nAQZ/yl3uVzZ3AG8=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-oMCth+xGQhYV2X2/kK7fvZ6zctx21j7C801Xx2ENiZ4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-xN5YQTykERIwFao7tICz9ZIbAWzog2bDo3ByCdh5Fq4=",
