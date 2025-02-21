@@ -6,10 +6,18 @@
     <title>Page Not Found</title>
     <link rel="stylesheet" href="styles.css"> <!-- Optional: Link to your CSS -->
     <script>
-        // This script will redirect to the original URL after the page loads
-        window.onload = function() {
+        // Wait for the document to load before redirecting
+        window.onload = function () {
+            // Get the original path
             const originalPath = window.location.pathname + window.location.search;
-            window.location.href = 'index.html' + originalPath;
+
+            // Redirect to index.html
+            window.location.href = 'index.html';
+
+            // Use setTimeout to allow index.html to load before changing the path
+            setTimeout(() => {
+                window.history.pushState(null, '', originalPath);
+            }, 100); // Adjust the timeout as necessary
         };
     </script>
 </head>
